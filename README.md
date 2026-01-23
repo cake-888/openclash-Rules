@@ -8,9 +8,10 @@
 
 4, 加速链接：
 
-Custom_Clash.ini
+1, Custom_Clash.ini
 
 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash.ini
 
-Custom_Full_Clash.ini
+2, Custom_Full_Clash.ini
+
 https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash_Full.ini
